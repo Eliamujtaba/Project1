@@ -27,3 +27,10 @@ h1, div {
 
 .omdb {
 }
+.imageback{
+    background-image: url("../images/titlebackground.jpg");
+  width: 100%;
+  padding:7%;
+  font-size: 40px;
+  text-align: center;
+}
